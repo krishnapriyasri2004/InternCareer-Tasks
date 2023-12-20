@@ -81,6 +81,3 @@ The purpose of this Python script is to scrape data from the Flipkart search res
 5. **Running in Jupyter Notebook:**
    - Provide instructions on installing dependencies and running the script in a Jupyter Notebook.
 
----
-
-This script is designed to be an informative and practical guide for users interested in scraping and automating data updates from Flipkart. It provides clear instructions on how to run the script in a Jupyter Notebook environment and explains the purpose of each section of the code.
